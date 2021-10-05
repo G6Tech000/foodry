@@ -1,0 +1,15 @@
+.content {
+  background-color: white;
+}
+
+.photo-card {
+  background-image:url(../assets/images/bg-details.png);
+  background-repeat: no-repeat;
+  background-size:38em 25rem;
+  width:100%;
+  height:40%;
+}
+
+
+
+
