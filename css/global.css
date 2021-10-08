@@ -75,6 +75,9 @@ body {
   margin-left: 2rem;
 }
 
+.button {
+  border-radius:1.5rem;
+}
 
 /* COMEÇO DO CONTEÙDO DOS ITEMS DO CARDÀPIO */
 /* 
